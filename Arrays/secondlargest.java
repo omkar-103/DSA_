@@ -9,6 +9,7 @@ public class secondlargest {
         arr[2] = 96;
         arr[3] = 25;
         arr[4] = 69;
+
         
 
         sc.close();
